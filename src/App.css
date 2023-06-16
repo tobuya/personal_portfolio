@@ -36,6 +36,7 @@ p.danger {
   color: #f00;
 }
 
+/* Navigation */
 nav.navbar {
   padding: 18px 0;
   position: fixed;
@@ -208,3 +209,5 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon::before {
 nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-color: transparent;
 }
+
+/* Banner */
