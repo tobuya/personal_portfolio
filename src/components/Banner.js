@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import { ArrowRightCircle } from 'react-bootstrap-icons';
-import logo from '../assets/logo.svg';
+import header from '../assets/header-img.svg';
 
 const Banner = () => {
   const [loopNum, setLoopNum] = useState(0);
@@ -49,10 +49,8 @@ const Banner = () => {
         <Row className="align-items-center">
           <Col xs={12} md={6} xl={7}>
             <div className="banner-content">
-              <span className="tagline">Welcome to my portfolio</span>
+              <h2 className="tagline">Hi I&apos;m Thomas Obuya</h2>
               <h1>
-                {'Hi I\'m Thomas Obuya'}
-                {' '}
                 <span className="wrap">{text}</span>
               </h1>
               <p>
@@ -69,7 +67,7 @@ const Banner = () => {
             </div>
           </Col>
           <Col xs={12} md={6} xl={5}>
-            <img src={logo} alt="Header" />
+            <img src={header} alt="Header" />
           </Col>
         </Row>
       </Container>
