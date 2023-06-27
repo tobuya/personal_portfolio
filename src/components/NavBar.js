@@ -3,9 +3,6 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import logo from '../assets/logo.svg';
-import linkedin from '../assets/linkedin.svg';
-import github from '../assets/github.svg';
-import medium from '../assets/medium.svg';
 
 const NavBar = () => {
   const [activeLink, setActiveLink] = useState('home');
@@ -49,11 +46,6 @@ const NavBar = () => {
             </Nav.Link>
           </Nav>
           <span className="navbar-text">
-            <div className="social-links">
-              <a href="https://www.linkedin.com/in/tobuya/"><img src={linkedin} alt="LinkedIn" /></a>
-              <a href="https://github.com/tobuya"><img src={github} alt="GitHub" /></a>
-              <a href="https://medium.com/@tobuya"><img src={medium} alt="Medium" /></a>
-            </div>
             <button type="button" className="vvd" onClick={() => console.log('connect')}>
               <span>Let&apos;s Connect</span>
             </button>
