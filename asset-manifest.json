@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/personal_portfolio/static/css/main.3b4ddd72.css",
+    "main.js": "/personal_portfolio/static/js/main.a356415a.js",
+    "static/media/data.jpg": "/personal_portfolio/static/media/data.28ada201832911490690.jpg",
+    "static/media/front.jpg": "/personal_portfolio/static/media/front.71be70e9784a184aad88.jpg",
+    "static/media/color-sharp.png": "/personal_portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/genie.png": "/personal_portfolio/static/media/genie.84b27171f3ba29eb2d92.png",
+    "static/media/back.jpg": "/personal_portfolio/static/media/back.76c4344da2119d02a7fb.jpg",
+    "static/media/soccer.png": "/personal_portfolio/static/media/soccer.0b698eb9777bba59f9c0.png",
+    "static/media/mockup.png": "/personal_portfolio/static/media/mockup.c033649c66714001fc1d.png",
+    "static/media/space.png": "/personal_portfolio/static/media/space.49e4863eae3f3088013c.png",
+    "static/media/banner-bg.png": "/personal_portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/classup.png": "/personal_portfolio/static/media/classup.a751b450e257dcc0bc34.png",
+    "static/media/header-img.svg": "/personal_portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/tools.png": "/personal_portfolio/static/media/tools.53c6c8ab1301952ec776.png",
+    "static/media/tracker.png": "/personal_portfolio/static/media/tracker.778924dc8461e265b07e.png",
+    "static/media/footer-bg.png": "/personal_portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/personal_portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/wave.png": "/personal_portfolio/static/media/wave.dc708b70c8625ba06e6a.png",
+    "static/media/revicons.eot": "/personal_portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/personal_portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/personal_portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/personal_portfolio/static/media/logo.e4887b7d2b50ca00d939ffc01d5fe1d6.svg",
+    "static/media/github.svg": "/personal_portfolio/static/media/github.b63c49a405f9a72e3dca75c52d98fbf0.svg",
+    "static/media/linkedin.svg": "/personal_portfolio/static/media/linkedin.edcc496b6ef45adce4c5664045c23d26.svg",
+    "index.html": "/personal_portfolio/index.html",
+    "static/media/medium.svg": "/personal_portfolio/static/media/medium.8c5c5c9288dec1ca8d72c44cca8f2596.svg",
+    "main.3b4ddd72.css.map": "/personal_portfolio/static/css/main.3b4ddd72.css.map",
+    "main.a356415a.js.map": "/personal_portfolio/static/js/main.a356415a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b4ddd72.css",
+    "static/js/main.a356415a.js"
+  ]
+}
