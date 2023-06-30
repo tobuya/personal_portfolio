@@ -55,7 +55,7 @@ const Contact = () => {
           <Col md={6}>
             <img src={contactImg} alt="Contact Me" />
           </Col>
-          <Col md={6}>
+          <Col md={6} id="contact">
             <h2>Get In Touch</h2>
             <form onSubmit={handleSubmit}>
               <Row>

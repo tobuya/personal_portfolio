@@ -26,11 +26,11 @@ const Skills = () => {
       items: 3,
     },
     largeScreen: {
-      breakpoint: { max: 3000, min: 464 },
+      breakpoint: { max: 3000, min: 800 },
       items: 2,
     },
     mobile: {
-      breakpoint: { max: 464, min: 0 },
+      breakpoint: { max: 800, min: 0 },
       items: 1,
     },
   };

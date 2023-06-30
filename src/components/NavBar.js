@@ -24,6 +24,13 @@ const NavBar = () => {
     setActiveLink(link);
   };
 
+  const scrollToContact = () => {
+    const contactElement = document.getElementById('contact');
+    if (contactElement) {
+      contactElement.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
+
   return (
     <Navbar expand="lg" className={scrolled ? 'scrolled' : ''}>
       <Container>
@@ -49,7 +56,7 @@ const NavBar = () => {
             </Nav.Link>
           </Nav>
           <span className="navbar-text">
-            <button type="button" className="vvd" onClick={() => console.log('connect')}>
+            <button type="button" className="vvd" onClick={scrollToContact}>
               <span>Let&apos;s Connect</span>
             </button>
           </span>
