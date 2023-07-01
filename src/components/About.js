@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 
 const About = () => {
   const openResume = () => {
-    window.open('https://docs.google.com/document/d/1NsEh-bq9mORTfyU9xAwARIvYAUX3jVlDWePB4nUKt30/edit?usp=sharing', '_blank');
+    window.open('https://docs.google.com/document/d/1NsEh-bq9mORTfyU9xAwARIvYAUX3jVlDWePB4nUKt30/export?format=pdf', '_blank');
   };
 
   return (
