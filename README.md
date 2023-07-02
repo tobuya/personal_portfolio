@@ -4,7 +4,7 @@
 [![LastUpdate](https://img.shields.io/github/last-commit/tobuya/personal_portfolio)](https://github.com/tobuya/personal_portfolio/commits/dev)
 [![Stargazers](https://img.shields.io/github/stars/tobuya/personal_portfolio)](https://github.com/tobuya/personal_portfolio/stargazers)
 [![Issues](https://img.shields.io/github/issues/tobuya/personal_portfolio)](https://github.com/tobuya/personal_portfolioissues)
-<!-- [![License](https://img.shields.io/github/license/tobuya/personal_portfolio)](https://github.com/tobuya/personal_portfolio/blob/dev/LICENSE) -->
+[![License](https://img.shields.io/github/license/tobuya/personal_portfolio)](https://github.com/tobuya/personal_portfolio/blob/dev/LICENSE)
 
 # 📗 Table of Contents
 
