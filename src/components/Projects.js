@@ -32,7 +32,7 @@ const Projects = () => {
       description: 'Experience the convenience of ClassUp, an all-in-one online learning platform. Create an account, reserve classes, and connect with learners in your area. With ClassUp, you are in control.'
                     + ' Elevate your learning journey by scheduling study sessions, creating courses, and managing reservations. Discover a world of educational opportunities at your fingertips.',
       featuredImage: classUp,
-      technologies: ['React', 'Redux', 'Rails', 'PostgreSQL', 'CSS'],
+      technologies: ['React', 'Redux', 'Rails', 'PostgreSQL', 'Bootstrap'],
       live: 'https://classup.onrender.com/',
       source: 'https://github.com/tobuya/e-learning-academy',
     },
@@ -77,7 +77,7 @@ const Projects = () => {
       projectFeatures: ['Filter recent videos highlights by competition name', 'Display all recent highlights in the selected competition', 'Click on a highlight of choice to watch the official match highlight'],
       description: 'Experience the best in football highlights with Soccer Hub. Watch recent official highlights from top leagues like Premier League, Champions League, La Liga, Serie A, Europa League, and more. Filter by competition, view all recent highlights, and click to watch your chosen match highlight. Never miss a moment of football action.',
       featuredImage: soccerHub,
-      technologies: ['React', 'Redux', 'CSS'],
+      technologies: ['React', 'Redux', 'Bootstrap'],
       live: 'https://soccer-hub.onrender.com/',
       source: 'https://github.com/tobuya/soccer_hub',
     },
