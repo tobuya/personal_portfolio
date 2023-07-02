@@ -544,8 +544,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .project-detail {
   background-color: var(--white);
   color: var(--background);
-  max-width: 90%;
-  max-height: 90%;
+  max-width: 85%;
+  max-height: 85%;
   overflow: auto;
   padding: 20px;
 }
