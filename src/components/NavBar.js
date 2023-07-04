@@ -7,6 +7,7 @@ import logo from '../assets/logo.svg';
 const NavBar = () => {
   const [activeLink, setActiveLink] = useState('home');
   const [scrolled, setScrolled] = useState(false);
+  const [isCollapsed, setIsCollapsed] = useState(true);
 
   useEffect(() => {
     const onScroll = () => {
@@ -22,24 +23,28 @@ const NavBar = () => {
 
   const onUpdateActiveLink = (link) => {
     setActiveLink(link);
+    setIsCollapsed(true);
   };
 
   const scrollToContact = () => {
     const contactElement = document.getElementById('contact');
     if (contactElement) {
       contactElement.scrollIntoView({ behavior: 'smooth' });
+      setIsCollapsed(true);
     }
   };
 
+  const toggleNavbar = () => {
+    setIsCollapsed(!isCollapsed);
+  };
+
   return (
-    <Navbar expand="lg" className={scrolled ? 'scrolled' : ''}>
+    <Navbar expand="lg" className={scrolled ? 'scrolled' : ''} expanded={!isCollapsed}>
       <Container>
         <Navbar.Brand href="#home">
           <img src={logo} alt="logo" />
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav">
-          <span className="navbar-toggler-icon" />
-        </Navbar.Toggle>
+        <Navbar.Toggle aria-controls="basic-navbar-nav" onClick={toggleNavbar} />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="#home" className={activeLink === 'home' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('home')}>
