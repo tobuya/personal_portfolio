@@ -22,7 +22,7 @@ const Banner = () => (
             <h2>Software Developer</h2>
             <p>
               Welcome to my portfolio!
-              As a highly skilled and adaptable junior software developer,
+              As a highly skilled and adaptable Software Developer,
               I specialize in Full-stack Web Development and Data Analysis.
               I possess a strong passion for creating impactful web applications
               and uncovering valuable insights from data.

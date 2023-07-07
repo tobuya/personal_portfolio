@@ -13,7 +13,7 @@ const About = () => {
           <Col md={12}>
             <h2>About Me</h2>
             <p>
-              As a junior Full-stack web developer and Data analyst,
+              As a Full-stack Web Developer and Data Analyst,
               I am passionate about technology and its potential to drive innovation.
               With a strong foundation in both web development and data analysis,
               I bring a unique perspective to every project I work on.
