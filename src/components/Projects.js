@@ -9,7 +9,7 @@ import ProjectDetail from './ProjectDetail';
 const classUp = require('../assets/classup.png');
 const kitchenGenie = require('../assets/genie.png');
 const budgetTracker = require('../assets/tracker.png');
-const spaceTravelers = require('../assets/spatra.png');
+const spaceTravelers = require('../assets/space.png');
 const soccerHub = require('../assets/sochub.png');
 const dsExpo = require('../assets/mockup.png');
 
