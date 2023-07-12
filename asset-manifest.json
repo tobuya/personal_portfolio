@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/personal_portfolio/static/css/main.861c9ecd.css",
-    "main.js": "/personal_portfolio/static/js/main.669343af.js",
+    "main.js": "/personal_portfolio/static/js/main.ac16e03e.js",
     "static/media/data.jpg": "/personal_portfolio/static/media/data.28ada201832911490690.jpg",
     "static/media/front.jpg": "/personal_portfolio/static/media/front.71be70e9784a184aad88.jpg",
     "static/media/color-sharp.png": "/personal_portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/genie.png": "/personal_portfolio/static/media/genie.84b27171f3ba29eb2d92.png",
+    "static/media/sochub.png": "/personal_portfolio/static/media/sochub.53f553a6767f40b66cbe.png",
     "static/media/back.jpg": "/personal_portfolio/static/media/back.76c4344da2119d02a7fb.jpg",
-    "static/media/soccer.png": "/personal_portfolio/static/media/soccer.0b698eb9777bba59f9c0.png",
     "static/media/mockup.png": "/personal_portfolio/static/media/mockup.c033649c66714001fc1d.png",
-    "static/media/space.png": "/personal_portfolio/static/media/space.49e4863eae3f3088013c.png",
+    "static/media/spatra.png": "/personal_portfolio/static/media/spatra.10311dfcbee9ae746766.png",
     "static/media/banner-bg.png": "/personal_portfolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/classup.png": "/personal_portfolio/static/media/classup.a751b450e257dcc0bc34.png",
     "static/media/header-img.svg": "/personal_portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
@@ -27,10 +27,10 @@
     "index.html": "/personal_portfolio/index.html",
     "static/media/medium.svg": "/personal_portfolio/static/media/medium.8c5c5c9288dec1ca8d72c44cca8f2596.svg",
     "main.861c9ecd.css.map": "/personal_portfolio/static/css/main.861c9ecd.css.map",
-    "main.669343af.js.map": "/personal_portfolio/static/js/main.669343af.js.map"
+    "main.ac16e03e.js.map": "/personal_portfolio/static/js/main.ac16e03e.js.map"
   },
   "entrypoints": [
     "static/css/main.861c9ecd.css",
-    "static/js/main.669343af.js"
+    "static/js/main.ac16e03e.js"
   ]
 }
