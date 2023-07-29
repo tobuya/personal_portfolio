@@ -6,8 +6,8 @@ import { GiTeamUpgrade } from 'react-icons/gi';
 import { FcCollaboration } from 'react-icons/fc';
 import {
   SiJavascript, SiTailwindcss, SiMysql, SiPostgresql,
-  SiRuby, SiRubyonrails, SiR, SiMicrosoftexcel,
-  SiPowerbi, SiHeroku, SiNetlify,
+  SiRuby, SiRubyonrails, SiR, SiMicrosoftexcel, SiPandas,
+  SiPowerbi, SiHeroku, SiNetlify, SiTypescript, SiNumpy,
 } from 'react-icons/si';
 import {
   FaReact, FaBootstrap, FaHtml5, FaCss3, FaPython, FaGit,
@@ -63,6 +63,7 @@ const Skills = () => {
                   <div>
                     <SiJavascript size={50} style={iconStyle} />
                     <FaReact size={50} style={iconStyle} />
+                    <SiTypescript size={50} style={iconStyle} />
                     <FaBootstrap size={50} style={iconStyle} />
                     <BiLogoRedux size={50} style={iconStyle} />
                     <FaHtml5 size={50} style={iconStyle} />
@@ -77,6 +78,8 @@ const Skills = () => {
                     <SiR size={50} style={iconStyle} />
                     <FaPython size={50} style={iconStyle} />
                     <SiMysql size={50} style={iconStyle} />
+                    <SiNumpy size={50} style={iconStyle} />
+                    <SiPandas size={50} style={iconStyle} />
                     <SiMicrosoftexcel size={50} style={iconStyle} />
                     <SiPowerbi size={50} style={iconStyle} />
                   </div>
